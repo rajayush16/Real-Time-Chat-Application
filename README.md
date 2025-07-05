@@ -10,7 +10,7 @@ A full-stack real-time chat application built with **MERN Stack** (MongoDB, Expr
 - 🟢 Online/offline user status indicators
 - 📄 Message persistence with MongoDB
 - 📦 REST API with Express.js
-- 💅 Styled using Tailwind CSS
+- 💅 Styled using Tailwind CSS and Daisy UI
 - 🌐 Fully responsive UI
 
 ## 🛠️ Tech Stack
