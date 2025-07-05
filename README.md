@@ -47,9 +47,7 @@ cd Real-Time-Chat-Application
 ```bash
 cd backend
 npm install
-# Create a .env file with the following:
-# MONGODB_URI=your_mongodb_uri
-# JWT_SECRET=your_jwt_secret
+# Create a .env file 
 npm run dev
 ```
 
