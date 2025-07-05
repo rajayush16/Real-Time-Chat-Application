@@ -99,6 +99,3 @@ CLOUDINARY_API_SECRET=<your_api_secret>
 **Ayush Raj**  
 [LinkedIn](https://www.linkedin.com/in/ayush-raj-722446260) • [GitHub](https://github.com/rajayush16)
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
