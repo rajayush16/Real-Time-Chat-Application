@@ -74,9 +74,9 @@ CLOUDINARY_API_SECRET=<your_api_secret>
 
 ## 📸 Screenshots
 
-| Signup Page | Chat Interface |
-|-------------|----------------|
-| ![Signup](https://via.placeholder.com/300x200) | ![Chat](https://via.placeholder.com/300x200) |
+| Signup Page | Chat Interface | Settings Page |
+|-------------|----------------| --------------|
+| ![Signup](frontend/public/signup_page.png) | ![Chat](frontend/public/chat_interface.png) | ![Settings](frontend/public/setting_page.png) |
 
 ## 🧠 Learning Objectives
 
